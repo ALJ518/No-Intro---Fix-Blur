@@ -1,3 +1,5 @@
+<img width="1680" height="1050" alt="MedalTVLucius20260823191702753" src="https://github.com/user-attachments/assets/c907928f-1284-45e2-bd00-fafa61c0722f" />
+
 Installation instructions
 Download the mod archive and extract it.
 You will find a modified
